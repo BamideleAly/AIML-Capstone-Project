@@ -1,6 +1,3 @@
-# AIML-Capstone-Project with Imperial College
-Name of the Project Exchange Rate Stability: Utilizing exchange rate, real interest rate, and foreign reserves indicators, I  seek to optimize policies that maintain a stable exchange rate while considering the impact of real interest rates on capital flows
-
 # PROJECT TITLE 
 Exchange Rate Stability Optimization
 
@@ -38,3 +35,4 @@ You can include images of plots using the code below:
 If you are planning on making your github repo public you may wish to include some contact information such as a link to your twitter or an email address. 
 
 For more details, questions, or collaboration opportunities, you can contact me via twitter (https://twitter.com/Dele_Aly) or email (dele_aly@yahoo.fr). Stay updated with the project's further developments on my GitHub repository here.
+
